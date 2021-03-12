@@ -8,7 +8,12 @@ const Header = () => {
         <h1>Web Development and Search Engine Optimization</h1>
         <Typed
           className="typed-text"
-          strings={["Web Design", "Web Development", "User Experience"]}
+          strings={[
+            "Web Design",
+            "Web Development",
+            "User Experience",
+            "Search Engine Optimization",
+          ]}
           typeSpeed={40}
           backSpeed={60}
           loop

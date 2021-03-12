@@ -19,7 +19,7 @@ export const AboutMe = () => {
             I create responsive websites that are displayed on all devices.
             <br />
             <br />
-            I am ready to do this for you! Beforewe start developing your
+            I am ready to do this for you! Before we start developing your
             website, we will discuss all the details of your niche. Together, we
             will provide a user experience to your customers that greatly
             out-performs the websites of the your various competitors. <br />
