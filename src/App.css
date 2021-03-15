@@ -54,6 +54,7 @@
 
 body {
   font-family: "Roboto Condensed", sans-serif !important;
+  overflow-x: hidden;
 }
 
 /*************************** NAVBAR **********************************************/
@@ -98,7 +99,7 @@ nav ul li {
 }
 
 .navbar-nav > li > a.active,
-.navbar-nav > li > a.active:focus {
+.navbar-nav > li > a:focus {
   border-top: 0.1875rem solid var(--primary-orange);
 }
 
@@ -113,7 +114,7 @@ nav ul li {
   background: url(wall-and-laptop-background.jpg) no-repeat;
   background-size: cover;
   background-position: center;
-  height: 90vh;
+  height: 100vh;
 }
 
 .main-info {
@@ -407,6 +408,10 @@ nav ul li {
   cursor: pointer;
 }
 
+.popupbox-wrapper {
+  margin-top: 7rem;
+}
+
 /************* OVERFLOW BOX ***************/
 
 .portfolio-image-popupbox {
@@ -555,4 +560,26 @@ textarea.form-control{
   .contacts p{
     padding: 0 0.4rem;
   }
+}
+
+/*************************** FOOTER **********************************************/
+
+.footer{
+  background: var(--primary-black);
+  color: var(--primary-dark);
+  padding: 3rem;
+}
+
+.footer a{
+  text-decoration: none;
+  color: var(--primary-dark-grey);
+}
+
+.footer a:hover{
+  text-decoration: none;
+  color: var(--primary-orange);
+}
+
+.footer p{
+  margin-bottom: 0;
 }
