@@ -40,9 +40,9 @@ const Experience = () => {
             <p>
               During the pandemic, I got bored of sitting at home and decided to
               invest most of my time and energy into learning how to be a better
-              devleoper and freelancing. I now am extremely comfortable with the
-              necessary skills to build functional, efficient, and user-friendly
-              websites for all types of copmanies!
+              devleoper and freelancer. I now am extremely comfortable with the
+              necessary skills to build functional, dynamicm efficient, and
+              user-friendly websites for all of my clients.
             </p>
           </div>
         </div>

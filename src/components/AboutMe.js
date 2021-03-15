@@ -14,10 +14,8 @@ export const AboutMe = () => {
           <h1 className="about-heading">About Me</h1>
           <p>
             Hello! My name is Christian. I'm a Full-Stack Web Developer. I make
-            ReactJS websites for my clients. <br />
-            <br />
-            I create responsive websites that are displayed on all devices.
-            <br />
+            ReactJS websites for my clients that are responsive, dynamic and
+            displayed on all devices. <br />
             <br />
             I am ready to do this for you! Before we start developing your
             website, we will discuss all the details of your niche. Together, we

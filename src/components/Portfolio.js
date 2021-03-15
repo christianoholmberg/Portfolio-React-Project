@@ -126,8 +126,8 @@ const Portfolio = () => {
         </div>
         {/*---*/}
       </div>
-      <PopupboxContainer {...popupboxConfigPortfolio} />
       <PopupboxContainer {...popupboxConfigVisualization} />
+      <PopupboxContainer {...popupboxConfigPortfolio} />
     </div>
   );
 };
